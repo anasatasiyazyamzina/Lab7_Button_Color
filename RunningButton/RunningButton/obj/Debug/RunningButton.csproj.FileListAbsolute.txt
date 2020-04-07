@@ -1,0 +1,9 @@
+C:\Users\Анастасия\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.csprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.Properties.Resources.resources
+C:\Users\Анастасия\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.csproj.GenerateResource.cache
+C:\Users\Анастасия\source\repos\RunningButton\RunningButton\bin\Debug\RunningButton.exe.config
+C:\Users\Анастасия\source\repos\RunningButton\RunningButton\bin\Debug\RunningButton.exe
+C:\Users\Анастасия\source\repos\RunningButton\RunningButton\bin\Debug\RunningButton.pdb
+C:\Users\Анастасия\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.exe
+C:\Users\Анастасия\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.pdb
+C:\Users\Анастасия\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.Extention.resources
