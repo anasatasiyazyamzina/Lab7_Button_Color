@@ -1,0 +1,9 @@
+C:\Users\Анастасия\source\repos\ButtMouse\ButtMouse\obj\Debug\ButtMouse.csprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\ButtMouse\ButtMouse\obj\Debug\ButtMouse.Properties.Resources.resources
+C:\Users\Анастасия\source\repos\ButtMouse\ButtMouse\obj\Debug\ButtMouse.csproj.GenerateResource.cache
+C:\Users\Анастасия\source\repos\ButtMouse\ButtMouse\bin\Debug\ButtMouse.exe.config
+C:\Users\Анастасия\source\repos\ButtMouse\ButtMouse\bin\Debug\ButtMouse.exe
+C:\Users\Анастасия\source\repos\ButtMouse\ButtMouse\bin\Debug\ButtMouse.pdb
+C:\Users\Анастасия\source\repos\ButtMouse\ButtMouse\obj\Debug\ButtMouse.exe
+C:\Users\Анастасия\source\repos\ButtMouse\ButtMouse\obj\Debug\ButtMouse.pdb
+C:\Users\Анастасия\source\repos\ButtMouse\ButtMouse\obj\Debug\ButtMouse.Color_Changer.resources
